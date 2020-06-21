@@ -1,2 +1,2 @@
 # Hypothesis-Testing
-This my Hypothesis -Testing Assignment solution. 
+This is my Hypothesis -Testing Assignment solution. 
